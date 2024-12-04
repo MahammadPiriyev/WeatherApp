@@ -34,7 +34,7 @@ This app uses the OpenWeather API to fetch weather data.
 
 **Mahammad Piriyev**  
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/mahammadpiriyev)  
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/mahammadpiriyev)  
 - Portfolio: [My Portfolio Website](https://mahammadpiriyev.onrender.com/)  
 
 
